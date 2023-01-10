@@ -1,8 +1,20 @@
-### 👋 ¡Hola! Soy Aldana Arcidiacono, Programadora Web Full Stack
+### 👋🏻 Hello! I'm Aldana Arcidiacono, Full Stack Web Programmer 💻
 
-🔭 Siempre buscando las ultimas tecnologias y mejores practicas de desarrollo.
+📎 I'm currently working on ISDI CODERS as assistant teacher and on ISDI CODERS APP as developper.
 
-👩🏻‍💻 Las tecnologías que utilizo actualmente y he realizado proyectos de todo tipo, son:
+🌱 I'm learning Angular
+
+🎎 I'm looking to collaborate on new projects
+
+📧 How to reach me: aldana.arcidiacono@gmail.com 
+
+🗺️ Languages: Spanish (native language) and english (level B2)
+
+✨ Always looking to make code with good practices.
+
+⚡ Constantly improving and learning new technologies.
+
+👩🏻‍💻 The technologies I currently use and with which I have developed different projects are:
 
 <div align="center">
 			<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png" alt="VisualStudio" title="VisualStudio" /></code>
@@ -21,8 +33,3 @@
 	<code><img height="50" src="https://viget.imgix.net/jest.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-2.1.1&q=90&s=882391e6854c3c621bcdc2df1c80c2e7" alt="Jest" title="Jest" /></code>
 	
 </div>
-
-
-⚡ Siempre buscando hacer código con buenas prácticas y mejorando constantemente, aprender nuevas tecnologías.
-🗺️ Idiomas: Español (lengua materna) e Inglés: escrito (A2) Basico 
-📫 Email: aldana.arcidiacono@gmail.com 
