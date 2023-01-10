@@ -1,6 +1,6 @@
 ### 👋🏻 Hello! I'm Aldana Arcidiacono, Full Stack Web Programmer 💻
 
-📎 I'm currently working on ISDI CODERS as assistant teacher and on ISDI CODERS APP as developper.
+📎  I'm currently working on ISDI CODERS as assistant teacher and on ISDI CODERS APP as developper.
 
 🌱 I'm learning Angular
 
