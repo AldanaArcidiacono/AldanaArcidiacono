@@ -16,16 +16,15 @@
 
 👩🏻‍💻 The technologies I currently use and with which I have developed different projects are:
 
-<br>
 <div align="center">
-          <code>
+         
             <img
               height="70"
               src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png"
               alt="VisualStudio"
               title="VisualStudio"
             />
-          </code>
+
           <code>
             <img
               height="70"
@@ -58,8 +57,7 @@
               title="TypeScript"
             />
           </code>
-          <br />
-          <br />
+
           <code>
             <img
               height="70"
@@ -100,8 +98,7 @@
               title="npm"
             />
           </code>
-          <br />
-          <br />
+
           <code>
             <img
               height="70"
