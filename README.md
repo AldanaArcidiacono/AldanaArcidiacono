@@ -6,7 +6,7 @@
 
 🎎 I'm looking to collaborate on new projects
 
-📧 How to reach me: aldana.arcidiacono@gmail.com 
+📧 How to reach me: aldana.arcidiacono@gmail.com or https://www.linkedin.com/in/aldana-arcidiacono/
 
 🗺️ Languages: Spanish (native language) and english (level B2)
 
