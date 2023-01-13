@@ -32,7 +32,7 @@
 	<br>
 	<br>
 	<code><img height="65" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" /></code>
-	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" title="mongoDB" /></code>
+	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="mongoDB" title="mongoDB" /></code>
 	<code><img height="65" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" title="Postman" /></code>
 	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="Git" title="Git" /></code>
 	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" /></code>
