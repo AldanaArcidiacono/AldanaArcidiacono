@@ -1,4 +1,4 @@
-### 👋🏻 Hello! I'm Aldana Arcidiacono, Full Stack Web Programmer 💻
+## 👋🏻 Hello! I'm Aldana Arcidiacono, Full Stack Web Programmer 💻
 
 📎  I'm currently working on ISDI CODERS as assistant teacher and on ISDI CODERS APP as developper.
 
@@ -14,7 +14,9 @@
 
 ⚡ Constantly improving and learning new technologies.
 
-👩🏻‍💻 The technologies I currently use and with which I have developed different projects are:
+---
+
+### 👩🏻‍💻 Languages and Tools:
 
 <div align="center">
 	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" title="HTML" /></code>
@@ -36,4 +38,16 @@
 	<code><img height="65" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" title="Postman" /></code>
 	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="Git" title="Git" /></code>
 	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" /></code>
+	<br>
+</div>
+
+---
+
+### :fire: My Stats:
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AldanaArcidiacono&theme=default)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldanaArcidiacono)](https://github.com/anuraghazra/github-readme-stats)
+	
 </div>
