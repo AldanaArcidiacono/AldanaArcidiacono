@@ -23,9 +23,11 @@
 	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" title="CSS" /></code>
 	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" title="TypeScript" /></code>
+	<code><img height="65" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" alt="Vue" title="Vue" /></code>
 	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" /></code>
 	<br>
 	<br>
+	<code><img height="65" src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-png-transparent.png" alt="Pug" title="Pug" /></code>
 	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" /></code>
 	<code><img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" title="Jest" /></code>
 	<code><img height="65" src="https://miro.medium.com/max/496/0*RfTXIdj0OMqSiDwC" alt="ReactTestingLibrary" title="ReactTestingLibrary" /></code>
